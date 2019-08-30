@@ -1,2 +1,2 @@
 # PyPlacement
-# Utilities concerning standard cell placement
+# Utilities concerning Standard Cell Placement
